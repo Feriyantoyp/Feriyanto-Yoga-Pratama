@@ -1,0 +1,9 @@
+.DS_Store
+library
+node_modules
+thrift
+gambarunyu/
+src/bot.js
+src/bot2.js
+src/renew.js
+list.txt
